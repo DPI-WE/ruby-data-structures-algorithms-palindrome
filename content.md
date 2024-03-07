@@ -1,5 +1,5 @@
 
-# Check if a String is a Palindrome
+# Check if a String is a Palindrome 🔁
 
 ## The Problem
 Write a function that:
