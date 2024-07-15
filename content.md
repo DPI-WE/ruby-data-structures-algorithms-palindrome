@@ -1,6 +1,8 @@
 
 # Check if a String is a Palindrome 🔁
 
+- [video](https://youtu.be/p47demc6huc)
+
 ## The Problem
 Write a function that:
 
